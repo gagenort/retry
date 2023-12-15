@@ -1,0 +1,16 @@
+h1 {text-align: center;}
+ 
+body {background-color: #B2AC88; }
+
+.Center {
+    text-align: center;
+}
+
+.bigfont {
+    text-decoration: underline;
+    color: whitesmoke;
+}
+
+.List {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
